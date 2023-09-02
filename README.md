@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About Me:
-My name is Timo, and I'm a 29 years old computer science student Heinrich Heine University. I have an interest in a lot of programming related topics and am always curious of learning new things.
+My name is Timo, and I'm a 29 years old computer science student at Heinrich Heine University. I have an interest in a lot of programming related topics and am always curious of learning new things.
 
 ## Tech Stack:
 <table>
