@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About Me:
-My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. I have an interest in a lot of programming related topics and am always curious of learning new things.
+My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. My main interests in this field are profesisonal software development, theoretical algorithms as well as mashine learning.
 
 ## Tech Stack:
 <table>
@@ -13,7 +13,6 @@ My name is Timo, and I'm a 31 years old computer science student at Heinrich Hei
   		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></td>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></td>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></td>
-		<td></td>
 	</tr>
 </table>
 
