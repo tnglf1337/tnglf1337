@@ -1,8 +1,8 @@
-### Hi there 👋
-## About Me:
-My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. My main interests in this field are profesisonal software development, theoretical algorithms as well as mashine learning and game theory.
+## Hi there 👋
+### About Me:
+My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. My main interests in this field are professional software development, theoretical algorithms as well as mashine learning and game theory.
 
-## Tech Stack:
+### Tech Stack:
 <table>
 	<tr>
 		<td><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></td>
@@ -16,5 +16,5 @@ My name is Timo, and I'm a 31 years old computer science student at Heinrich Hei
 	</tr>
 </table>
 
-## Contact:
+### Contact:
 Timo.Neske@hhu.de
