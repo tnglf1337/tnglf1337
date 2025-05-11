@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About Me:
-My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. My main interests in this field are profesisonal software development, theoretical algorithms as well as mashine learning.
+My name is Timo, and I'm a 31 years old computer science student at Heinrich Heine University. My main interests in this field are profesisonal software development, theoretical algorithms as well as mashine learning and game theory.
 
 ## Tech Stack:
 <table>
